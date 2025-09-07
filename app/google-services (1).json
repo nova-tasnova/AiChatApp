@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "751597291956",
+    "project_id": "aichatapp-c8cd9",
+    "storage_bucket": "aichatapp-c8cd9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751597291956:android:0dcfca042a498765464ae1",
+        "android_client_info": {
+          "package_name": "com.example.aichatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv2qQDCtxOr4NLMlT_Bw-zS_1BvnCIiEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
